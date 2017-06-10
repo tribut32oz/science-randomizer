@@ -1,0 +1,11 @@
+
+{
+    "name": "science-randomizer",
+    "version": "1.0.0",
+    "title": "Science Randomizer",
+    "author": "tribut32oz",
+    "homepage": "",
+    "description": "Randomize the science packs' recipes.",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15.0"]
+}

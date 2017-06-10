@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "title": "Science Randomizer",
     "author": "tribut32oz",
-    "homepage": "",
+    "homepage": "https://github.com/tribut32oz/science-randomizer",
     "description": "Randomize the science packs' recipes.",
     "factorio_version": "0.15",
     "dependencies": ["base >= 0.15.0"]

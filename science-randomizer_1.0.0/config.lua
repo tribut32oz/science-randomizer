@@ -121,7 +121,7 @@ sp3 = {
 "plastic-bar",
 "advanced-circuit",
 "engine-unit",
-"eletric-engine-unit",
+"electric-engine-unit",
 "flying-robot-frame",
 "battery"}
 
@@ -195,7 +195,7 @@ spph = {
 "plastic-bar",
 "advanced-circuit",
 "engine-unit",
-"eletric-engine-unit",
+"electric-engine-unit",
 "flying-robot-frame",
 "steam-turbine",
 "nuclear-reactor",

@@ -1,12 +1,12 @@
 # Science-randomizer
 
-##About
+## About
 This mod randomize the science packs' recipes.
 
-##Howto
+## Howto
 Edit the seed with config.lua before running Factorio.
 
 If get an error or want to change something, then fork and create a pull request.
 
-##Credits
+## Credits
 tribut32oz
